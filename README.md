@@ -34,7 +34,7 @@ It uses `kscreen-doctor`, which ships with Plasma and works on Wayland.
 ## Install
 
 ```bash
-git clone https://github.com/MurderFromMars/Piezo ~/.local/share/piezo
+git clone https://github.com/MurderFromMars-Backup/Piezo ~/.local/share/piezo
 cd ~/.local/share/piezo
 chmod +x refresh-rate.sh refresh-rate-battery.sh refresh-rate-ac.sh
 ```
